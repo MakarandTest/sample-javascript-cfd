@@ -26,3 +26,4 @@ export default class ZoomFoodAPI {
     return axios.delete(`${BASEURL}/cart/${item.id}`);
   }
 }
+
